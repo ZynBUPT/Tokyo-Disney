@@ -296,5 +296,51 @@
         "dpa_sold_out": true
       }
     ]
+  },
+  "2026-09-02": {
+    "10:00": [
+      {
+        "name_en": "Journey to the Center of the Earth",
+        "name_cn": "地心探险之旅",
+        "wait_time": 160,
+        "dpa_sold_out": false
+      },
+      {
+        "name_en": "Aquatopia",
+        "name_cn": "水上逗趣船",
+        "wait_time": "Closed",
+        "dpa_sold_out": false
+      },
+      {
+        "name_en": "Toy Story Mania!",
+        "name_cn": "玩具总动员疯狂游戏屋",
+        "wait_time": 140,
+        "dpa_sold_out": false
+      },
+      {
+        "name_en": "Raging Spirits",
+        "name_cn": "忿怒双神",
+        "wait_time": 70,
+        "dpa_sold_out": false
+      },
+      {
+        "name_en": "Soaring: Fantastic Flight",
+        "name_cn": "翱翔：梦幻奇航",
+        "wait_time": 180,
+        "dpa_sold_out": false
+      },
+      {
+        "name_en": "Turtle Talk",
+        "name_cn": "龟龟漫谈",
+        "wait_time": 15,
+        "dpa_sold_out": false
+      },
+      {
+        "name_en": "Tower of Terror",
+        "name_cn": "惊魂古塔",
+        "wait_time": 120,
+        "dpa_sold_out": false
+      }
+    ]
   }
 }
