@@ -743,6 +743,50 @@
         "wait_time": 90,
         "dpa_sold_out": false
       }
+    ],
+    "18:00": [
+      {
+        "name_en": "Journey to the Center of the Earth",
+        "name_cn": "地心探险之旅",
+        "wait_time": 90,
+        "dpa_sold_out": true
+      },
+      {
+        "name_en": "Aquatopia",
+        "name_cn": "水上逗趣船",
+        "wait_time": 80,
+        "dpa_sold_out": true
+      },
+      {
+        "name_en": "Turtle Talk",
+        "name_cn": "龟龟漫谈",
+        "wait_time": 20,
+        "dpa_sold_out": true
+      },
+      {
+        "name_en": "Toy Story Mania!",
+        "name_cn": "玩具总动员疯狂游戏屋",
+        "wait_time": 140,
+        "dpa_sold_out": true
+      },
+      {
+        "name_en": "Raging Spirits",
+        "name_cn": "忿怒双神",
+        "wait_time": 60,
+        "dpa_sold_out": true
+      },
+      {
+        "name_en": "Soaring: Fantastic Flight",
+        "name_cn": "翱翔：梦幻奇航",
+        "wait_time": 140,
+        "dpa_sold_out": true
+      },
+      {
+        "name_en": "Tower of Terror",
+        "name_cn": "惊魂古塔",
+        "wait_time": 90,
+        "dpa_sold_out": true
+      }
     ]
   }
 }
